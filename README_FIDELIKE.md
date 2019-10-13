@@ -12,7 +12,12 @@ Um aplicativo criado em Flutter para um cliente que tem a principal funcionalida
 * Usuário pode visualizar o prêmio que receberá
 * Usuário visualiza os pontos que possui em forma de gráfico
 
-<img src="./imagens/android/fidelike/login.png" height=800 width=400/>
-<img src="./imagens/android/fidelike/dashboard_cliente.png" height=800 width=400/>
-<img src="./imagens/android/fidelike/cliente_recebe_premio.png" height=800 width=400/>
-<img src="./imagens/android/fidelike/modal_produto.png" height=800 width=400/>
+<img src="./imagens/android/fidelike/login.png"/>
+<img src="./imagens/android/fidelike/dashboard_cliente.png"/>
+<img src="./imagens/android/fidelike/cliente_recebe_premio.png"/>
+<img src="./imagens/android/fidelike/modal_produto.png"/>
+<img src="./imagens/android/fidelike/print_formulario.png"/>
+<img src="./imagens/android/fidelike/print_adicionar_pontos.png"/>
+<img src="./imagens/android/fidelike/print_listagem_cliente.png"/>
+<img src="./imagens/android/fidelike/cliente_recebe_premio.png"/>
+
