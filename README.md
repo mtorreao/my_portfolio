@@ -4,6 +4,8 @@
 
 ## Fidelike App
 
+> [Para ver o Fidelike click aqui](https://github.com/mtorreao/my_portfolio/blob/master/README_FIDELIKE.md)
+
 Um aplicativo criado em Flutter para um cliente que tem a principal funcionalidade gerenciar pontuação de fidelidade para a LikeHair Cosméticos e seus clientes.
 
 #### Funcionalidades:
